@@ -1,0 +1,6 @@
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\bin\Debug\CodeAbbey - SmoothingTheWeather.exe.config
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\bin\Debug\CodeAbbey - SmoothingTheWeather.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\bin\Debug\CodeAbbey - SmoothingTheWeather.pdb
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\obj\Debug\CodeAbbey - SmoothingTheWeather.csprojResolveAssemblyReference.cache
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\obj\Debug\CodeAbbey - SmoothingTheWeather.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SmoothingTheWeather\CodeAbbey - SmoothingTheWeather\obj\Debug\CodeAbbey - SmoothingTheWeather.pdb

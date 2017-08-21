@@ -1,0 +1,6 @@
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\bin\Debug\CodeAbbey - SavingsCalculator.exe.config
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\bin\Debug\CodeAbbey - SavingsCalculator.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\bin\Debug\CodeAbbey - SavingsCalculator.pdb
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\obj\Debug\CodeAbbey - SavingsCalculator.csprojResolveAssemblyReference.cache
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\obj\Debug\CodeAbbey - SavingsCalculator.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - SavingsCalculator\CodeAbbey - SavingsCalculator\obj\Debug\CodeAbbey - SavingsCalculator.pdb

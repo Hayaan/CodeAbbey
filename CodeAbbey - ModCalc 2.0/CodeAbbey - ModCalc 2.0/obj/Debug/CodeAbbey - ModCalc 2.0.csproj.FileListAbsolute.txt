@@ -1,0 +1,6 @@
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\bin\Debug\CodeAbbey - ModCalc 2.0.exe.config
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\bin\Debug\CodeAbbey - ModCalc 2.0.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\bin\Debug\CodeAbbey - ModCalc 2.0.pdb
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\obj\Debug\CodeAbbey - ModCalc 2.0.csprojResolveAssemblyReference.cache
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\obj\Debug\CodeAbbey - ModCalc 2.0.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModCalc 2.0\CodeAbbey - ModCalc 2.0\obj\Debug\CodeAbbey - ModCalc 2.0.pdb

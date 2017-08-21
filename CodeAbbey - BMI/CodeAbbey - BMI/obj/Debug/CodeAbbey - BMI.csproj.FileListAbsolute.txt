@@ -1,0 +1,6 @@
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\bin\Debug\CodeAbbey - BMI.exe.config
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\bin\Debug\CodeAbbey - BMI.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\bin\Debug\CodeAbbey - BMI.pdb
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\obj\Debug\CodeAbbey - BMI.csprojResolveAssemblyReference.cache
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\obj\Debug\CodeAbbey - BMI.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - BMI\CodeAbbey - BMI\obj\Debug\CodeAbbey - BMI.pdb

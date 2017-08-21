@@ -1,0 +1,6 @@
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\obj\Debug\CodeAbbey - ModularCalc.csprojResolveAssemblyReference.cache
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\bin\Debug\CodeAbbey - ModularCalc.exe.config
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\bin\Debug\CodeAbbey - ModularCalc.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\bin\Debug\CodeAbbey - ModularCalc.pdb
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\obj\Debug\CodeAbbey - ModularCalc.exe
+c:\users\abdirahman\documents\visual studio 2017\Projects\CodeAbbey - ModularCalc\CodeAbbey - ModularCalc\obj\Debug\CodeAbbey - ModularCalc.pdb
